@@ -80,7 +80,7 @@ No front-end foi utilizado Vue.js, para consumir a APi do back end, com o layout
 
 
 ```bash
-cd web 
+cd Gazin-Tech-Front 
 ```
 ### Instalar as dependências 
 
