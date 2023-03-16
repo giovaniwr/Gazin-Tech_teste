@@ -20,7 +20,7 @@ Utilizei a Stack: Para o Backend o laravel(php) e para o FrontEnd foi utilizado 
 ### **Baixando o repositório**
 
 ```bash
-git clone https://github.com/lucasfdcampos/gazin-tech-potential-crud.git
+git clone https://github.com/giovaniwr/Gazin-Tech_teste.git 
 ```
 
 ### **DataBase**
