@@ -1,15 +1,7 @@
-<h1 align="center">
-  <img src="https://www.gazin.com.br/images/svg/new-logo.svg" alt="Logo">
-</h1>
-
-<h3 align="center">
-  <!-- alterar link para Gazin -->
-  Challenge potential-crud <a href="https://www.gazin.com.br/">Gazin</a>
-</h3>
 
 ## Sobre
 
-Gazin Pontential CRUD
+TCC Giovani Welington Raitz
 
 ## Tecnologias
 
@@ -20,13 +12,13 @@ Utilizei a Stack: Para o Backend o laravel(php) e para o FrontEnd foi utilizado 
 ### **Baixando o repositório**
 
 ```bash
-git clone https://github.com/lucasfdcampos/gazin-tech-potential-crud.git
+git clone 
 ```
 
 ### **DataBase**
 
 ```bash
-CREATE DATABASE db_gazin
+CREATE DATABASE db_tcc
 ```
 
 Acesso ao banco de dados pelas credenciais
@@ -35,7 +27,7 @@ Acesso ao banco de dados pelas credenciais
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=db_gazin
+DB_DATABASE=db_tcc
 DB_USERNAME=root
 DB_PASSWORD=
 ```
@@ -43,7 +35,7 @@ DB_PASSWORD=
 ### **Back-end**
 
 ```bash
-cd Gazin-Tech-Back 
+cd TCC-Back 
 ```
 
 ### Instalar as dependências 
@@ -73,10 +65,6 @@ php artisan serve
 ### **Front-end**
 
 No front-end foi utilizado Vue.js, para consumir a APi do back end, com o layout resposivo, com algumas biliotecas para seu desempenho
-
-<p align="center">
-  O azul dos textos do menu lateral foi retiro do site "https://www.gazintech.com.br/" junto com o logo
-</p>
 
 
 ```bash
